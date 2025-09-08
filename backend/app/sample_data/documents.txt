@@ -1,0 +1,5 @@
+Artificial Intelligence is a branch of computer science that aims to create machines capable of intelligent behavior.
+FastAPI is a modern Python web framework for building APIs quickly and efficiently.
+Vector databases store embeddings to allow semantic search and retrieval of similar content.
+Machine learning is a subset of AI that enables systems to learn from data without explicit programming.
+Neural networks are computing systems inspired by biological neural networks in animal brains.

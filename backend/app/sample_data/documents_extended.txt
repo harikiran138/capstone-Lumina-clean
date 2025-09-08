@@ -1,0 +1,47 @@
+Artificial Intelligence is a branch of computer science that aims to create machines capable of intelligent behavior.
+FastAPI is a modern Python web framework for building APIs quickly and efficiently.
+Vector databases store embeddings to allow semantic search and retrieval of similar content.
+Machine learning is a subset of AI that enables systems to learn from data without explicit programming.
+Neural networks are computing systems inspired by biological neural networks in animal brains.
+Deep learning uses neural networks with multiple layers to model complex patterns in data.
+Natural language processing enables computers to understand and generate human language.
+Computer vision allows machines to interpret and understand visual information from the world.
+Reinforcement learning is a type of machine learning where agents learn through trial and error.
+Supervised learning uses labeled data to train models for prediction tasks.
+Unsupervised learning finds patterns in data without labeled examples.
+Transfer learning applies knowledge from one task to improve performance on another.
+AI ethics involves ensuring responsible development and deployment of artificial intelligence systems.
+In education, AI can personalize learning experiences and provide intelligent tutoring.
+FastAPI supports asynchronous programming for high-performance web applications.
+RESTful APIs follow principles for scalable and maintainable web services.
+Microservices architecture breaks down applications into smaller, independent services.
+Docker containers provide consistent environments for application deployment.
+Kubernetes orchestrates containerized applications at scale.
+Cloud computing offers scalable resources for AI model training and inference.
+Data preprocessing is crucial for preparing datasets for machine learning models.
+Feature engineering involves creating relevant features from raw data.
+Model evaluation metrics like accuracy, precision, and recall assess performance.
+Overfitting occurs when a model performs well on training data but poorly on new data.
+Regularization techniques prevent overfitting by adding penalties to model complexity.
+Gradient descent is an optimization algorithm used to train neural networks.
+Backpropagation computes gradients for updating neural network weights.
+Convolutional neural networks excel at image recognition tasks.
+Recurrent neural networks are designed for sequential data like time series and text.
+Transformers have revolutionized natural language processing with attention mechanisms.
+Large language models like GPT generate human-like text.
+Prompt engineering involves crafting effective prompts for AI models.
+Retrieval-augmented generation combines retrieval and generation for better answers.
+Vector embeddings represent text as dense numerical vectors.
+Semantic search finds content based on meaning rather than exact keyword matches.
+FAISS is an efficient library for similarity search on large datasets.
+Pinecone and Weaviate are cloud-based vector databases.
+AI in healthcare can assist with diagnosis, drug discovery, and personalized medicine.
+AI in finance detects fraud, predicts market trends, and automates trading.
+AI in transportation enables autonomous vehicles and traffic optimization.
+AI in entertainment creates personalized recommendations and generates content.
+Sustainable AI focuses on energy-efficient computing and reducing environmental impact.
+Bias in AI can lead to unfair outcomes and requires careful mitigation.
+Explainable AI aims to make model decisions understandable to humans.
+Federated learning trains models across decentralized devices without sharing raw data.
+Edge AI runs AI models on local devices for privacy and low-latency applications.
+Quantum computing may accelerate certain AI algorithms in the future.
